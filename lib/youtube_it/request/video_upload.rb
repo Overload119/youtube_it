@@ -524,7 +524,7 @@ class YouTubeIt
       end
 
       def base_url
-        "http://gdata.youtube.com"
+        "https://gdata.youtube.com"
       end
 
       def boundary
